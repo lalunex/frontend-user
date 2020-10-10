@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+}
+
+@font-face {
+  font-family:'Impact';
+  src:url('../fonts/impact.ttf') format('truetype')
+}
+
+@font-face {
+  font-family:'Mingliub';
+  src:url('../fonts/mingliub.ttf') format('truetype')
+}
